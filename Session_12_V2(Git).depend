@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1660821477 source:d:\embedded system\session_12_v2(git)v1.0.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Arithmatic_op.h"
+
+1660821477 d:\embedded system\session_12_v2(git)v1.0.0\arithmatic_op.h
+
